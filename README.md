@@ -16,7 +16,7 @@ Proficient in the following tools and technologies:
 # 🌎 Let's Connect!
 I'm open to new opportunities and collaborations. Let's connect and discuss how we can leverage data for informed decision-making!
 
-💼 Linkedin: https://www.linkedin.com/in/afifrahman-oo/
-🌐 Instagram: https://www.instagram.com/afifrhmnn/
+- 💼 Linkedin: https://www.linkedin.com/in/afifrahman-oo/
+- 🌐 Instagram: https://www.instagram.com/afifrhmnn/
 
 Looking forward to connecting with you! 🌟
