@@ -2,7 +2,7 @@
 Industrial Engineer | Data Analytics Enthusiast | Committed to Advancing Industrial Data Applications
 
 # 💼 Professional Summary
-- Industrial Engineering graduate with expertise in data preparation, manipulation, and cleansing
+- An Industrial Engineering graduate with a strong foundation in data preparation, manipulation, and cleansing
 - Proficient in applying exploratory data analysis techniques, as well as supervised and unsupervised learning methods, including deep learning, to reveal insights and trends, and develop robust machine learning models
 - A dedicated and enthusiastic learner, constantly striving to acquire new skills and knowledge in the dynamic field of data analytics
 
