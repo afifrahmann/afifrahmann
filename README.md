@@ -1,9 +1,9 @@
 # 👋 Hi There, I’m Afif Rahman
-An Industrial Engineer specializing in Data Analytics, with a keen passion for numbers and an unwavering commitment to expanding my skillset and exploring new horizons in the world of Data analytics for Industrial applications.
+Industrial Engineer | Data Analytics Enthusiast | Committed to Advancing Industrial Data Applications
 
 # 💼 Professional Summary
 - Industrial Engineering graduate with expertise in data preparation, manipulation, and cleansing
-- Experienced in utilizing exploratory data analysis techniques, supervised and unsupervised learning, and deep learning to uncover insights and trends, and make machine learning model
+- Proficient in applying exploratory data analysis techniques, as well as supervised and unsupervised learning methods, including deep learning, to reveal insights and trends, and develop robust machine learning models
 - A dedicated and enthusiastic learner, constantly striving to acquire new skills and knowledge in the dynamic field of data analytics
 
 # 🛠️ Tools and Skills
