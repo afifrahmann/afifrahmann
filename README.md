@@ -1,5 +1,5 @@
 # 👋 Hi There, I’m Afif Rahman
-A Data Scientist with a passion for numbers and a drive to learn and explore new skills.
+An Industrial Engineer specializing in Data Analytics, with a keen passion for numbers and an unwavering commitment to expanding my skillset and exploring new horizons in the world of Data analytics for Industrial applications.
 
 # 💼 Professional Summary
 - Industrial Engineering graduate with expertise in data preparation, manipulation, and cleansing.
