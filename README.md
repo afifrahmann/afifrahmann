@@ -1,5 +1,5 @@
 # 👋 Hi There, I’m Afif Rahman
-Industrial Engineer | Data Analytics Enthusiast | Committed to Advancing Industrial Data Applications
+Industrial Engineer | Data Analytics Enthusiast | Committed to Advancing The Applications of Data in Industry
 
 # 💼 Professional Summary
 - An Industrial Engineering graduate with a strong foundation in data preparation, manipulation, and cleansing
